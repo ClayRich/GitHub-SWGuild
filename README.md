@@ -1,1 +1,1 @@
-# GitHub-SWGuild
+# GitHub
